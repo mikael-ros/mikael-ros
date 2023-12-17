@@ -1,5 +1,5 @@
-### Hello!
+## Hello!
 
-I haven't done much yet, but I guess check out my only two projects (:
+I haven't done much yet, mostly small projects...
 
-Have a nice day!
+Have a nice day, though!
