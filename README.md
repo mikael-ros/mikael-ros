@@ -4,14 +4,10 @@ My name is Mikael; a computer science student @ LTH, Sweden - doing web and grap
 
 #### I speak
 ... Swedish 🇸🇪, English 🇬🇧
-☕ Java...  and Java accessories 
-    - Scala
 
-🖥️ HTML
+☕ Java and Scala
 
-👔 CSS
-
-🤖 JavaScript
+🖥️ HTML | 👔 CSS | 🤖 JavaScript
 
 📃 Markdown
 
