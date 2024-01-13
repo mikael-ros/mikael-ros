@@ -25,4 +25,9 @@ and use the following [tools](tools.md).
 ⛏️ A Minecraft mod using the Fabric API (source code coming, when finished)
 
 ---
+
+### When I'm not doing... all that, I enjoy
+Cooking, exercising, gaming, reading and working with tech and electronics!
+
+--- 
 Have a nice day!
