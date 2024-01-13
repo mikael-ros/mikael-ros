@@ -21,6 +21,8 @@ My name is Mikael; a computer science student @ LTH, Sweden - doing web and grap
 
 🦀 Rust (still learning)
 
+and use the following [tools](tools.md).
+
 ---
 # Currently working on
 
