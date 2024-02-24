@@ -26,6 +26,8 @@ and use the following [tools](tools.md).
 
 ↗️ A Java program that aids in linear algebra calculations (solely for learning, won't be that great)
 
+🧑‍🏫 A Python beginners course (for someone special :o)
+
 ---
 
 ### When I'm not doing... all that, I enjoy
