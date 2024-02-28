@@ -13,7 +13,7 @@ Swedish 🇸🇪 | English 🇬🇧
 
 🟰 R
 
-🐍 Python (though just a little rusty)
+🐍 Python (though a little rusty)
 
 🦀 Rust (still learning)
 
