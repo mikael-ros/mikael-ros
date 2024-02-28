@@ -6,7 +6,11 @@
   - Debian
 - Windows 10 & 11
 ### Programming
-- Git.. obviously 
+- Git.. obviously
+- Gradle
+- Java specific APIs
+  - Spring Boot
+  - Fabric API (for Minecraft mods)
 - Visual Studio Code
 - JetBrains
   - IntelliJ IDEA
