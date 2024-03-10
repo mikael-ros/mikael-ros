@@ -28,8 +28,6 @@ and use the following [tools](tools.md).
 
 🧑‍🏫 A Python beginners course (for someone special :o)
 
-🎞️ A Minecraft themed Marp theme (release soon!)
-
 ---
 
 ### When I'm not doing... all that, I enjoy
