@@ -28,6 +28,8 @@ and use the following [tools](tools.md).
 
 🧑‍🏫 A Python beginners course (for someone special :o)
 
+📽️ A modern take on the LaTeX beamer theme for Marp
+
 ---
 
 ### When I'm not doing... all that, I enjoy
