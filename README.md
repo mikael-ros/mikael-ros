@@ -17,6 +17,8 @@ Swedish 🇸🇪 | English 🇬🇧
 
 🦀 Rust (learning)
 
+🤯 Clojure (at gunpoint)
+
 and use the following [tools](tools.md).
 
 ---
