@@ -7,15 +7,15 @@ Swedish 🇸🇪 | English 🇬🇧
 
 ☕ Java and Scala
 
-🖥️ HTML | 👔 CSS | 🤖 JavaScript
+🖥️ HTML | 👔 CSS | 🤖 JavaScript | #️⃣ TypeScript (learning)
 
 📃 Markdown
 
 🟰 R
 
-🐍 Python (though a little rusty)
+🐍 Python
 
-🦀 Rust (still learning)
+🦀 Rust (learning)
 
 and use the following [tools](tools.md).
 
