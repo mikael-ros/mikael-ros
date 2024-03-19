@@ -11,6 +11,7 @@
 - Java specific APIs
   - Spring Boot
   - Fabric API (for Minecraft mods)
+- Astro.js
 - Visual Studio Code
 - JetBrains
   - IntelliJ IDEA
