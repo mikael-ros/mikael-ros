@@ -32,6 +32,10 @@ _and use the following [tools](tools.md)._
 🧑‍🏫 A Python beginners course (for someone special :o)
 
 ---
+### Planned projects
+🔨 Renovating my portfolio site... it's pretty old now
+
+---
 
 ### When I'm not doing... all that, I enjoy
 Cooking, exercising, gaming, reading and working with tech and electronics!
