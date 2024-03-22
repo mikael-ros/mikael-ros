@@ -12,11 +12,14 @@
   - Spring Boot
   - Fabric API (for Minecraft mods)
 - Astro.js
-- Visual Studio Code
+- Visual Studio Code (VSCodium)
 - JetBrains
   - IntelliJ IDEA
   - PyCharm
   - RustRover
+### Game development
+- Godot
+- Unreal Engine
 ### Graphic Design
 - Adobe
   - Photoshop
