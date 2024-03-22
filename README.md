@@ -3,6 +3,7 @@
 My name is Mikael; a computer science student @ LTH, Sweden - doing web and graphic design on the side, dabbling in mod development and 3D modelling, amongst many other things. Back in the day, also video creation.
 
 #### I speak
+<pre>
 🐵 Human readable: Swedish 🇸🇪 | English 🇬🇧
 
 📦 OOP:            ☕ Java | ❤️ Scala
@@ -14,7 +15,7 @@ My name is Mikael; a computer science student @ LTH, Sweden - doing web and grap
 ⚙️ FP:             ⛓️ Haskell (learning) | 🤯 Clojure (at gunpoint)
 
 🔧 Low level:      🦀 Rust (learning)
-
+</pre>
 _and use the following [tools](tools.md)._
 
 ---
