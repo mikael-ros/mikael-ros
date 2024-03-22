@@ -1,6 +1,6 @@
 # Hello 👋
 
-My name is Mikael; a computer science student @ LTH, Sweden - doing web and graphic design on the side, dabbling in mod development and 3D modelling, amongst many other things. Back in the day, also video creation.
+My name is **Mikael; a computer science student @ LTH, Sweden** - doing web and graphic design on the side, dabbling in mod development and 3D modelling, amongst many other things. Back in the day, also video creation.
 
 #### I speak
 <pre>
