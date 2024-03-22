@@ -15,6 +15,8 @@ My name is **Mikael; a computer science student @ LTH, Sweden** - doing web and 
 ⚙️ FP:             ⛓️ Haskell (learning) | 🤯 Clojure (at gunpoint)
 
 🔧 Low level:      🦀 Rust (learning)
+
+⌨️ Terminal:       Shell scripting
 </pre>
 _and use the following [tools](tools.md)._
 
