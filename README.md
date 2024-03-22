@@ -5,32 +5,28 @@ My name is Mikael; a computer science student @ LTH, Sweden - doing web and grap
 #### I speak
 Swedish 🇸🇪 | English 🇬🇧
 
-☕ Java and Scala
+☕ Java | ❤️ Scala
 
-🖥️ HTML | 👔 CSS | 🤖 JavaScript | #️⃣ TypeScript (learning)
+🖥️ HTML | 📃 Markdown | 👔 CSS | 🤖 JavaScript | #️⃣ TypeScript (learning)
 
-📃 Markdown
+🟰 R | 🐍 Python
 
-🟰 R
-
-🐍 Python
+⛓️ Haskell (learning) | 🤯 Clojure (at gunpoint)
 
 🦀 Rust (learning)
-
-🤯 Clojure (at gunpoint)
 
 and use the following [tools](tools.md).
 
 ---
 ### Currently working on
 
+📕 A website for my study notes, using Astro.js
+
 ⛏️ A Minecraft mod using the Fabric API (source code coming, when finished)
 
 ↗️ A Java program that aids in linear algebra calculations (solely for learning, won't be that great)
 
 🧑‍🏫 A Python beginners course (for someone special :o)
-
-📕 A website for my study notes, using Astro.js
 
 ---
 
