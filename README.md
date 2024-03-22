@@ -4,7 +4,7 @@ My name is Mikael; a computer science student @ LTH, Sweden - doing web and grap
 
 #### I speak
 <pre>
-🐵 Human readable: Swedish 🇸🇪 | English 🇬🇧
+🐵 Human readable: 🇸🇪 Swedish | 🇬🇧 English 
 
 📦 OOP:            ☕ Java | ❤️ Scala
 
