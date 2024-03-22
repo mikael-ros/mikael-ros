@@ -3,19 +3,19 @@
 My name is Mikael; a computer science student @ LTH, Sweden - doing web and graphic design on the side, dabbling in mod development and 3D modelling, amongst many other things. Back in the day, also video creation.
 
 #### I speak
-Swedish 🇸🇪 | English 🇬🇧
+🐵 Human readable: Swedish 🇸🇪 | English 🇬🇧
 
-☕ Java | ❤️ Scala
+📦 OOP:            ☕ Java | ❤️ Scala
 
-🖥️ HTML | 📃 Markdown | 👔 CSS | 🤖 JavaScript | #️⃣ TypeScript (learning)
+🌐 Webdev:         🖥️ HTML | 📃 Markdown | 👔 CSS | 🤖 JavaScript | #️⃣ TypeScript (learning)
 
-🟰 R | 🐍 Python
+➕ Math:           🟰 R | 🐍 Python
 
-⛓️ Haskell (learning) | 🤯 Clojure (at gunpoint)
+⚙️ FP:             ⛓️ Haskell (learning) | 🤯 Clojure (at gunpoint)
 
-🦀 Rust (learning)
+🔧 Low level:      🦀 Rust (learning)
 
-and use the following [tools](tools.md).
+_and use the following [tools](tools.md)._
 
 ---
 ### Currently working on
