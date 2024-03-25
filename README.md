@@ -1,44 +1,46 @@
 # Hello 👋
 
-My name is **Mikael; a computer science student @ LTH, Sweden** - doing web and graphic design on the side, dabbling in mod development and 3D modelling, amongst many other things. Back in the day, also video creation.
+My name is **Mikael; a computer science student @ LTH, Sweden** - doing web and graphic design on the side, dabbling in mod/game development amongst many other things. I also used to do video creation, social media and streaming in the past, which have contributed to my skillset.
 
-#### I speak
+---
+
+#### 💬 I speak
 <pre>
-🐵 Human readable: 🇸🇪 Swedish | 🇬🇧 English 
+  🐵 Human readable: 🇸🇪 Swedish | 🇬🇧 English 
 
-📦 OOP:            ☕ Java | ❤️ Scala
+  📦 OOP:            ☕ Java | ❤️ Scala
 
-🌐 Webdev:         🖥️ HTML | 📃 Markdown | 👔 CSS | 🤖 JavaScript | #️⃣ TypeScript (learning)
+  🌐 Webdev:         🖥️ HTML | 📃 Markdown | 👔 CSS | 🤖 JavaScript | #️⃣ TypeScript (learning)
 
-➕ Math:           🟰 R | 🐍 Python
+  ➕ Math:           🟰 R | 🐍 Python
+  
+  ⚙️ FP:             ⛓️ Haskell (learning) | 🤯 Clojure (at gunpoint)
 
-⚙️ FP:             ⛓️ Haskell (learning) | 🤯 Clojure (at gunpoint)
+  🔧 Low level:      🦀 Rust (learning)
 
-🔧 Low level:      🦀 Rust (learning)
-
-⌨️ Terminal:       Shell scripting
+  ⌨️ Terminal:       💲 Shell scripting
 </pre>
-_and use the following [tools](tools.md)._
-
----
-### Currently working on
-
-📕 A website for my study notes, using Astro.js
-
-⛏️ A Minecraft mod using the Fabric API (source code coming, when finished)
-
-↗️ A Java program that aids in linear algebra calculations (solely for learning, won't be that great)
-
-🧑‍🏫 A Python beginners course (for someone special :o)
-
----
-### Planned projects
-🔨 Renovating my portfolio site... it's pretty old now
+_and use the following [tools 🧰](tools.md)._
 
 ---
 
-### When I'm not doing... all that, I enjoy
-Cooking, exercising, gaming, reading and working with tech and electronics!
+### 📆 Currently working on
+> 📕 **Studee:** A website for my study notes, using Astro.js
+> 
+> ⛏️ **Banana bomb:** A Minecraft mod using the Fabric API (source code coming, when finished)
+>
+> ↗️ **linearJ:** A Java program that aids in linear algebra calculations (solely for learning, won't be that great)
+>
+> 🧑‍🏫 **pythonee:** A Python beginners course (for someone special :o)
+
+---
+### 🗓️ Planned projects
+> 🔨 Renovating my portfolio site... it's pretty old now
+
+---
+
+### 🏖️ When I'm not doing... all that, I enjoy
+Cooking, exercising, gaming, reading, secondhand, and working with tech and electronics!
 
 --- 
-Have a nice day!
+##### Have a nice day! 🙏
