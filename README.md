@@ -41,4 +41,4 @@ _and use the following [tools 🧰](tools.md)._
 Cooking, exercising, gaming, reading, secondhand, and working with tech and electronics!
 
 --- 
-##### Have a nice day! 🙏
+## Have a nice day! 🙏
