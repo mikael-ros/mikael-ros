@@ -4,6 +4,7 @@ My name is **Mikael; a computer science student @ LTH, Sweden** - doing web and 
 
 ### 💬 I speak
 <pre>
+  
   🐵 Human readable: 🇸🇪 Swedish | 🇬🇧 English 
 
   📦 OOP:            ☕ Java | ❤️ Scala
@@ -17,6 +18,7 @@ My name is **Mikael; a computer science student @ LTH, Sweden** - doing web and 
   🔧 Low level:      🦀 Rust (learning)
 
   ⌨️ Terminal:       💲 Shell scripting
+  
 </pre>
 _and use the following [tools 🧰](tools.md)._
 
