@@ -12,6 +12,8 @@
   - Spring Boot
   - Fabric API (for Minecraft mods)
 - Astro.js
+- Marp
+#### IDEs
 - Visual Studio Code (VSCodium)
 - JetBrains
   - IntelliJ IDEA
