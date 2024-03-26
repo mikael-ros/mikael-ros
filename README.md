@@ -9,9 +9,11 @@ My name is **Mikael; a 21 year old computer science student @ LTH, Sweden** - do
 
   📦 OOP:            ☕ Java | ❤️ Scala
 
-  🌐 Webdev:         🖥️ HTML | 📃 Markdown | 👔 CSS | 🤖 JavaScript | #️⃣ TypeScript (learning)
+  🌐 Webdev:         🖥️ HTML | 👔 CSS | 🤖 JavaScript | #️⃣ TypeScript (learning)
 
-  ➕ Math:           🟰 R | 🐍 Python
+  ✏️ Writing:        📝 Markdown | 📄 LaTeX 
+
+  ➕ Math:           🟰 R | 🐍 Python | ✖️ KaTeX
   
   ⚙️ FP:             ⛓️ Haskell (learning) | 🤯 Clojure (at gunpoint)
 
