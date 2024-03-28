@@ -101,7 +101,7 @@
                     height: 1.5em;
                     margin: 0 .25rem;
                     padding: .25em .5em;
-                    line-height: 1.25em;
+                    line-height: 1em;
                     border-radius: var(--border-radius-mild);
                     color: var(--text-color-negative);
                     text-wrap: nowrap;
