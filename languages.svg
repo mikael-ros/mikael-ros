@@ -32,7 +32,7 @@
 
                 #language-card{
                     padding: .5em;
-                    background-color: rgba(var(--shadow), 0.5);
+                    background-color: rgba(var(--shadow), 1);
                     border-radius: var(--border-radius-mild);
                 }
 
