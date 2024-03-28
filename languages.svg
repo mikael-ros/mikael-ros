@@ -59,9 +59,9 @@
                 }
 
                 .emoji {
-                    display: inline-block;
+                    display: inline;
                     margin: 0 .5em 0 0;
-                    height: 50%;
+                    max-height: 50%;
                     padding: .25em;
                     background-color: rgba(var(--shadow),0.8);
                     border-radius: 3rem;
