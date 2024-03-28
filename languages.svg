@@ -1,19 +1,21 @@
-<svg fill="none" viewBox="0 0 1000 550" width="1000" height="550" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 1000 600" width="1000" height="600" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
                 :root{
-                    --proficiency-proficient:   #00AA00;
-                    --proficiency-good:         #008800;
-                    --proficiency-average:      #00AA88;
-                    --proficiency-belowaverage: #AA8800;
-                    --proficiency-accquainted:  #886600;
-                    --proficiency-learning:     #88DD00;
+                    /* Colors generated with mycolor.space */
+                    --proficiency-proficient:   #46B30C;
+                    --proficiency-good:         #00a353;
+                    --proficiency-average:      #008e75;
+                    --proficiency-belowaverage: #7f986f;
+                    --proficiency-accquainted:  #a66a24;
+                    --proficiency-learning:     #9999cc;
 
                     --text-color: grey;
                     --text-color-negative: #DDD;
                     
                     --shadow: 16,16,16;
+                    --highlight: 200,200,200;
                     --light-shadow: #444;
                     --text-shadow: #555;
 
@@ -33,7 +35,7 @@
 
                 #language-card{
                     width: 100%;
-                    height: 500px;
+                    height: 550px;
                     padding: .5em .5em 0 .5em;
                     background-color: rgba(var(--shadow),0.5);
                     border-radius: var(--border-radius-mild);
@@ -72,9 +74,9 @@
                     display: inline-block;
                     text-align: center;
                     margin: 0 .5em 0 0;
-                    height: 2rem;
-                    line-height: 1.5rem;
-                    width: 2rem;
+                    height: 2em;
+                    line-height: 1.5em;
+                    width: 2em;
                     padding: .25em;
                     background-color: rgba(var(--shadow),0.8);
                     border-radius: 3rem;
@@ -100,9 +102,9 @@
                     padding: .25em .5em;
                     border-radius: var(--border-radius-mild);
                     color: var(--text-color-negative);
-                    text-shadow: 1px 1px 0px var(--text-shadow);
                     text-wrap: nowrap;
                     overflow: hidden;
+                    opacity: 0.9;
                 }
                 
                 ul div{
@@ -123,9 +125,29 @@
                     margin: 0;
                 }
 
+                #legend{
+                    height: 1.75rem;
+                    width: 100%;
+                    padding: .5rem 0 ;
+                    font-size: .75rem;
+                    background-color: rgba(var(--highlight),0.2);
+                }
+
+                #legend .emoji{
+                    background-color: rgba(var(--highlight),0.2);
+                }
+
+                #legend ul{
+                    left: 150px;
+                }
+
+                #legend li{
+                    margin: 0.25em;
+                }
+
                 @keyframes reveal{
-                    from { width: 0 }
-                    to { width: 100% }
+                    from { width: 0; filter: brightness(160%) }
+                    to { width: 100%; filter: brightness(100%) }
                 }
 
                 @keyframes blink-caret {
@@ -240,6 +262,29 @@
                     </div>
                     <div class="learning">
                         <li>🦀 Rust</li>
+                    </div>
+                    </ul>
+                </section>
+                <section class="category-container" id="legend">
+                    <h4><span class="emoji">🗺️</span> Legend</h4>
+                    <ul>
+                    <div class="proficient">
+                        <li>💪 Proficient</li>
+                    </div>
+                    <div class="good">
+                        <li>👍 Good</li>
+                    </div>
+                    <div class="average">
+                        <li>👌 Average</li>
+                    </div>
+                    <div class="belowaverage">
+                        <li>🤏 Below average</li>
+                    </div>
+                    <div class="accquainted">
+                        <li>💡 Accquainted</li>
+                    </div>
+                    <div class="learning">
+                        <li>🧠 Learning</li>
                     </div>
                     </ul>
                 </section>
