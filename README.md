@@ -2,26 +2,8 @@
 
 My name is **Mikael; a 21 year old computer science student @ LTH, Sweden** - doing web and graphic design on the side, dabbling in mod/game development amongst many other things. I also used to do video creation, social media and streaming in the past, which have contributed to my skillset.
 
-### 💬 I speak
-<pre>
-  
-  🐵 Human readable: 🇸🇪 Swedish | 🇬🇧 English 
+![](./languages.svg)
 
-  📦 OOP:            ☕ Java | ❤️ Scala
-
-  🌐 Webdev:         🖥️ HTML | 👔 CSS | 🤖 JavaScript | #️⃣ TypeScript (learning)
-
-  ✏️ Writing:        📝 Markdown | 📄 LaTeX 
-
-  ➕ Math:           🟰 R | 🐍 Python | ✖️ KaTeX
-  
-  ⚙️ FP:             ⛓️ Haskell (learning) | 🤯 Clojure (at gunpoint)
-
-  🔧 Low level:      🦀 Rust (learning)
-
-  ⌨️ Terminal:       💲 Shell scripting
-  
-</pre>
 _and use the following [tools 🧰](tools.md)._
 
 ---
