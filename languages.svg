@@ -98,8 +98,9 @@
 
                 li{
                     display: flex;
+                    align-items: center;
                     margin: 0 .25rem;
-                    padding: .25em .5em 0 .5em;
+                    padding: .25em .5em;
                     border-radius: var(--border-radius-mild);
                     color: var(--text-color-negative);
                     text-wrap: nowrap;
