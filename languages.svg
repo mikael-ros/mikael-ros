@@ -50,17 +50,18 @@
                         typing 3s steps(5, end);
                 }
 
-                h3+p{
+                #typewriter::before {
+                    content: "";
+                    animation: typing 10s infinite;
+                }
+
+                h3 p{
                     display: inline-block;
-                    width: .75em;
-                    margin-bottom: .25em;
+                    width: 1ch;
+                    margin-bottom: 0;
                     margin-left: .1em;
                     border-bottom: solid .2em var(--text-color-negative);
                     animation: blink-caret .75s step-end infinite;
-                }
-
-                #title{
-                    display: flex;
                 }
 
                 h4 {
@@ -153,10 +154,17 @@
                     from, to { border-color: transparent }
                     50% { border-color: var(--text-color-negative); }
                 }
-
+                
+                /* Inspired by https://codepen.io/alvaromontoro/pen/rNwVpdd */
                 @keyframes typing {
-                    from { width: 2.1em }
-                    to { width:  4.8em}
+                    00.00%, 93.75% { content: ""; }
+                    06.25%, 87.50% { content: "I"; }
+                    12.50%, 81.25% { content: "I "; }
+                    18.75%, 75.00% { content: "I s"; }
+                    25.00%, 68.75% { content: "I sp"; }
+                    31.25%, 62.50% { content: "I spe"; }
+                    37.50%, 56.25% { content: "I spea"; }
+                    43.75%, 50.00% { content: "I speak"; }
                 }
 
                 /* * * * * * * * * * * */
@@ -189,7 +197,7 @@
             </style>
 
             <article id="language-card">
-                <div id="title"><h3>💬 I speak</h3><p> </p></div>
+                <h3>💬 <span id="typewriter"></span><p></p></h3>
                 <section class="category-container">
                     <h4><span class="emoji">🐵</span> Human readable</h4>
                     <ul>
