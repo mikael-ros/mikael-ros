@@ -119,6 +119,10 @@
                     background-color: rgba(var(--shadow),0.5);
                 }
 
+                .category-container:last-of-type{
+                    margin: 0;
+                }
+
                 @keyframes reveal{
                     from { width: 0 }
                     to { width: 100% }
