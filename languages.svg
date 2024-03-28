@@ -98,10 +98,8 @@
 
                 li{
                     display: flex;
-                    height: 1.5em;
                     margin: 0 .25rem;
-                    padding: .25em .5em;
-                    line-height: 1em;
+                    padding: .25em .5em 0 .5em;
                     border-radius: var(--border-radius-mild);
                     color: var(--text-color-negative);
                     text-wrap: nowrap;
