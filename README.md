@@ -28,6 +28,9 @@ _and use the following [tools 🧰](tools.md)._
 
 ### 📆 Currently working on
 
+> [!NOTE]
+> I usually keep projects closed source until I'm atleast at an initial release stage. Contact me if any of the below projects sound like something you'd want to contribute to during initial development :)
+
 📕 **Studee:** A website for my study notes, using Astro.js
 
 ⛏️ **Banana bomb:** A Minecraft mod using the Fabric API (source code coming, when finished)
