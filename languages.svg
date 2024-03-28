@@ -39,6 +39,7 @@
                     padding: .5em .5em 0 .5em;
                     background-color: rgba(var(--shadow),0.5);
                     border-radius: var(--border-radius-mild);
+                    animation: 1s flash 0s linear;
                 }
 
                 h3 {
@@ -52,7 +53,7 @@
 
                 #typewriter::before {
                     content: "";
-                    animation: typing 10s infinite;
+                    animation: 10s typing .5s infinite;
                 }
 
                 h3 p{
@@ -61,7 +62,7 @@
                     margin-bottom: 0;
                     margin-left: .1em;
                     border-bottom: solid .2em var(--text-color-negative);
-                    animation: blink-caret .75s step-end infinite;
+                    animation: .75s blink-caret 1s step-end infinite;
                 }
 
                 h4 {
@@ -85,14 +86,15 @@
                 ul {
                     position: absolute;
                     left: 300px;
-                    width: 100%;
+                    width: 0%;
                     height: 100%;
                     overflow: hidden;
                     display: flex;
                     align-items: center;
                     list-style: none;
 
-                    animation: .75s linear 0s 1 reveal;
+                    animation: .75s linear 1s 1 reveal;
+                    animation-fill-mode: forwards;
                 }
 
                 li{
@@ -148,6 +150,11 @@
                 @keyframes reveal{
                     from { width: 0; filter: brightness(160%) }
                     to { width: 100%; filter: brightness(100%) }
+                }
+
+                @keyframes flash{
+                    from, to { filter: brightness(100%) }
+                    50% { filter: brightness(150%) }
                 }
 
                 @keyframes blink-caret {
