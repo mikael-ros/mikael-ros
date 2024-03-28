@@ -14,6 +14,7 @@
                     --text-color-negative: #DDD;
                     
                     --shadow: 16,16,16;
+                    --light-shadow: #444;
                     --text-shadow: #555;
 
                     --border-radius-mild: 1rem;
@@ -31,8 +32,10 @@
                 }
 
                 #language-card{
+                    width: 100%;
+                    height: 100%;
                     padding: .5em;
-                    background-color: rgba(var(--shadow), 1);
+                    background-color: var(--light-shadow);
                     border-radius: var(--border-radius-mild);
                 }
 
