@@ -30,6 +30,12 @@
                     padding: 0;
                 }
 
+                #language-card{
+                    padding: .5em;
+                    background-color: rgba(var(--shadow), 0.5);
+                    border-radius: var(--border-radius-mild);
+                }
+
                 h3 {
                     color: var(--text-color-negative);
                     overflow: hidden;
@@ -153,81 +159,83 @@
                 }
             </style>
 
-            <div id="title"><h3>💬 I speak</h3><p> </p></div>
-            <section class="category-container">
-                <h4><span class="emoji">🐵</span> Human readable</h4>
-                <ul>
-                    <!-- Classes divide the list into proficiency -->
-                    <div class="proficient">
-                        <li>🇸🇪 Swedish</li>
-                        <li>🇬🇧 English</li>
-                    </div>
-                </ul>
-            </section>
-            <section class="category-container">
-                <h4><span class="emoji">📦</span> Object oriented</h4>
-                <ul>
-                    <div class="proficient">
-                        <li>☕ Java</li>
-                        <li>❤️ Scala</li>
-                    </div>
-                </ul>
-            </section>
-            <section class="category-container">
-                <h4><span class="emoji">🌐</span> Web development</h4>
-                <ul>
-                    <div class="proficient">
-                        <li>🖥️ HTML</li>
-                        <li>👔 CSS</li>
-                    </div>
-                    <div class="good">
-                        <li>🤖 JavaScript</li>
-                    </div>
-                    <div class="learning">
-                        <li>#️⃣ TypeScript</li>
-                    </div>
-                </ul>
-            </section>
-            <section class="category-container">
-                <h4><span class="emoji">✏️</span> Writing</h4>
-                <ul>
-                    <div class="proficient">
-                        <li>📝 Markdown</li>
-                    </div>
-                    <div class="average">
-                        <li>📄 LaTeX</li>
-                    </div>
-                </ul>
-            </section>
-            <section class="category-container">
-                <h4><span class="emoji">➕</span> Math/Functional</h4>
-                <ul>
-                    <div class="good">
-                        <li>✖️ KaTeX</li>
-                    </div>
+            <article id="language-card">
+                <div id="title"><h3>💬 I speak</h3><p> </p></div>
+                <section class="category-container">
+                    <h4><span class="emoji">🐵</span> Human readable</h4>
+                    <ul>
+                        <!-- Classes divide the list into proficiency -->
+                        <div class="proficient">
+                            <li>🇸🇪 Swedish</li>
+                            <li>🇬🇧 English</li>
+                        </div>
+                    </ul>
+                </section>
+                <section class="category-container">
+                    <h4><span class="emoji">📦</span> Object oriented</h4>
+                    <ul>
+                        <div class="proficient">
+                            <li>☕ Java</li>
+                            <li>❤️ Scala</li>
+                        </div>
+                    </ul>
+                </section>
+                <section class="category-container">
+                    <h4><span class="emoji">🌐</span> Web development</h4>
+                    <ul>
+                        <div class="proficient">
+                            <li>🖥️ HTML</li>
+                            <li>👔 CSS</li>
+                        </div>
+                        <div class="good">
+                            <li>🤖 JavaScript</li>
+                        </div>
+                        <div class="learning">
+                            <li>#️⃣ TypeScript</li>
+                        </div>
+                    </ul>
+                </section>
+                <section class="category-container">
+                    <h4><span class="emoji">✏️</span> Writing</h4>
+                    <ul>
+                        <div class="proficient">
+                            <li>📝 Markdown</li>
+                        </div>
+                        <div class="average">
+                            <li>📄 LaTeX</li>
+                        </div>
+                    </ul>
+                </section>
+                <section class="category-container">
+                    <h4><span class="emoji">➕</span> Math/Functional</h4>
+                    <ul>
+                        <div class="good">
+                            <li>✖️ KaTeX</li>
+                        </div>
+                        <div class="belowaverage">
+                            <li>🟰 R</li>
+                            <li>🐍 Python</li>
+                        </div>
+                        <div class="accquainted">
+                            <li>🤯 Clojure</li>
+                        </div>
+                        <div class="learning">
+                            <li>⛓️ Haskell</li>
+                        </div>
+                    </ul>
+                </section>
+                <section class="category-container">
+                    <h4><span class="emoji">🔧</span> Other</h4>
+                    <ul>
                     <div class="belowaverage">
-                        <li>🟰 R</li>
-                        <li>🐍 Python</li>
-                    </div>
-                    <div class="accquainted">
-                        <li>🤯 Clojure</li>
+                            <li>💲 Shell scripting</li>
                     </div>
                     <div class="learning">
-                        <li>⛓️ Haskell</li>
+                        <li>🦀 Rust</li>
                     </div>
-                </ul>
-            </section>
-            <section class="category-container">
-                <h4><span class="emoji">🔧</span> Other</h4>
-                <ul>
-                <div class="belowaverage">
-                        <li>💲 Shell scripting</li>
-                </div>
-                <div class="learning">
-                    <li>🦀 Rust</li>
-                </div>
-                </ul>
-            </section>
+                    </ul>
+                </section>
+            </article>
         </div>
     </foreignObject>
 </svg>
