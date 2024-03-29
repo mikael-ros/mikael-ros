@@ -4,7 +4,7 @@ My name is **Mikael; a 21 year old computer science student @ LTH, Sweden** - do
 
 ![](https://raw.githubusercontent.com/mikael-ros/profile-card/main/profile-card.svg)
 _and use the following [tools 🧰](tools.md)._
-> ###### [I made the card above, repo here.](https://github.com/mikael-ros/profile-card)
+> ###### [I made the card above, repo can be found  here.](https://github.com/mikael-ros/profile-card)
 
 ---
 
