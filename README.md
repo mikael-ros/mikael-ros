@@ -23,6 +23,7 @@ _and use the following [tools 🧰](tools.md)._
 
 ### 🗓️ Planned projects
 > 🔨 Renovating my portfolio site... it's pretty old now
+> :flower_playing_cards: Making the "currently working on" into a card with a "deck" of cards, sliding past the screen.
 
 ---
 
