@@ -18,10 +18,6 @@ _and use the following [tools 🧰](tools.md)._
 
 ⛏️ **Banana bomb:** A Minecraft mod using the Fabric API (source code coming, when finished)
 
-↗️ **linearJ:** A Java program that aids in linear algebra calculations (solely for learning, won't be that great)
-
-🧑‍🏫 **pythonee:** A Python beginners course (for someone special :o)
-
 ### 🗓️ Planned projects
 > 🔨 Renovating my portfolio site... it's pretty old now
 > 
