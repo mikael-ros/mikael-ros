@@ -28,6 +28,8 @@ _and use the following [tools 🧰](tools.md)._
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mikael-ros&theme=dark&hide_border=true&border_radius=16&date_format=j%2Fn%5B%2FY%5D&card_width=550&background=45%2C131314%2C7484EBBE&fire=F74E61&ring=D44353&currStreakLabel=C23D4C&dates=D2D1D7)](https://git.io/streak-stats)
 
+> Currently trying to work on something every day :)
+
 ---
 
 ### 🏖️ When I'm not doing... all that, I enjoy
