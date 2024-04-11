@@ -16,7 +16,7 @@ _and use the following [tools 🧰](tools.md)._
 
 📕 **Studee:** A website for my study notes, using Astro.js and Solid.js
 
-⛏️ **Banana bomb:** A Minecraft mod using the Fabric API (source code coming, when finished)
+🍌 **Banana bomb:** A Minecraft mod using the Fabric API (source code coming, when finished)
 
 ### 🗓️ Planned projects
 > 🔨 Renovating my portfolio site... it's pretty old now
