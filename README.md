@@ -5,6 +5,9 @@ My name is **Mikael; a 22 year old computer science student @ LTH, Sweden** - do
 [![](https://raw.githubusercontent.com/mikael-ros/profile-card/main/profile-card.svg)](https://github.com/mikael-ros/profile-card)
 _and use the following [tools 🧰](tools.md)._
 
+> [!NOTE]
+> I just pre-released [**Slumper:**](https://www.github.com/mikael-ros/slumper), a study tool for randomizing tasks! Do take a visit if you feel inclined to, it's almost finished :)
+
 ---
 <details closed>
   
@@ -12,7 +15,7 @@ _and use the following [tools 🧰](tools.md)._
 
 > I usually keep projects closed source until I'm atleast at an initial release stage. Contact me if any of the below projects sound like something you'd want to contribute to during initial development :)
 
-🎲 **Slumper:** A randomizer for study questions/exercises using Astro.js and Solid.js
+🎲 [**Slumper:**](https://www.github.com/mikael-ros/slumper) A randomizer for study questions/exercises using Astro.js and Solid.js
 
 📕 **Studee:** A website for my study notes, using Astro.js and Solid.js
 
