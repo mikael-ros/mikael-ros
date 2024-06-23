@@ -6,7 +6,7 @@ My name is **Mikael; a 22 year old computer science student @ LTH, Sweden** - do
 _and use the following [tools 🧰](tools.md)._
 
 > [!NOTE]
-> I just pre-released [**Slumper:**](https://www.github.com/mikael-ros/slumper), a study tool for randomizing tasks! Do take a visit if you feel inclined to, it's almost finished :)
+> I just pre-released [**Slumper**](https://www.github.com/mikael-ros/slumper), a study tool for randomizing tasks! Do take a visit if you feel inclined to, it's almost finished :)
 
 ---
 <details closed>
