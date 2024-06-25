@@ -15,6 +15,8 @@ _and use the following [tools 🧰](tools.md)._
 
 > I usually keep projects closed source until I'm atleast at an initial release stage. Contact me if any of the below projects sound like something you'd want to contribute to during initial development :)
 
+🗂 **Portfolio:** A new version of my portfolio
+
 🎲 [**Slumper:**](https://www.github.com/mikael-ros/slumper) A randomizer for study questions/exercises using Astro.js and Solid.js
 
 📕 **Studee:** A website for my study notes, using Astro.js and Solid.js
@@ -22,8 +24,6 @@ _and use the following [tools 🧰](tools.md)._
 🍌 **Banana bomb:** A Minecraft mod using the Fabric API (source code coming, when finished)
 
 ### 🗓️ Planned projects
-> 🔨 Renovating my portfolio site... it's pretty old now
-> 
 > :flower_playing_cards: Making the "currently working on" into a slideshow with projects sliding past the screen.
 </details>
 
