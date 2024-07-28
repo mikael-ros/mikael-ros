@@ -20,11 +20,6 @@ _and use the following [tools 🧰](tools.md)._
 🎲 [**Slumper:**](https://www.github.com/mikael-ros/slumper) A randomizer for study questions/exercises using Astro.js and Solid.js
 
 📕 **Studee:** A website for my study notes, using Astro.js and Solid.js
-
-🍌 **Banana bomb:** A Minecraft mod using the Fabric API (source code coming, when finished)
-
-### 🗓️ Planned projects
-> :flower_playing_cards: Making the "currently working on" into a slideshow with projects sliding past the screen.
 </details>
 
 ---
