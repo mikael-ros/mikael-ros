@@ -6,7 +6,7 @@ My name is **Mikael; a 22 year old computer science student @ LTH, Sweden** - do
 _and use the following [tools 🧰](tools.md)._
 
 > [!NOTE]
-> I just pre-released [**Slumper**](https://www.github.com/mikael-ros/slumper), a study tool for randomizing tasks! Do take a visit if you feel inclined to, it's almost finished :)
+> I just released [**Slumper**](https://www.github.com/mikael-ros/slumper), a study tool for randomizing tasks! Do take a visit if you feel inclined to, it's almost finished :)
 
 ---
 <details closed>
@@ -26,12 +26,11 @@ _and use the following [tools 🧰](tools.md)._
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mikael-ros&theme=dark&hide_border=true&border_radius=16&date_format=j%2Fn%5B%2FY%5D&card_width=550&background=45%2C131314%2C7484EBBE&fire=F74E61&ring=D44353&currStreakLabel=C23D4C&dates=D2D1D7)](https://git.io/streak-stats)
 
-> Currently on vacation :o
-
 ---
 
 ### 🏖️ When I'm not doing... all that, I enjoy
 Cooking, exercising, gaming, reading, secondhand, and working with tech and electronics!
 
 --- 
+You can reach me by e-mailing me at [embracketdesign@gmail.com](mailto:embracketdesign@gmail.com).
 ## Have a nice day! 🙏
