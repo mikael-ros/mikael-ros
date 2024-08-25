@@ -34,3 +34,5 @@ Cooking, exercising, gaming, reading, secondhand, and working with tech and elec
 --- 
 You can reach me by e-mailing me at [embracketdesign@gmail.com](mailto:embracketdesign@gmail.com).
 ## Have a nice day! 🙏
+
+> _I have so far blocked & reported 10 bots that tried to follow me... If anyone knows how to make it stop, let me know lol_
