@@ -1,4 +1,4 @@
-# Hello 👋
+# Hello! 👋
 
 My name is **Mikael; a 22 year old computer science student @ LTH, Sweden** - doing web and graphic design on the side, dabbling in mod/game development amongst many other things. I also used to do video creation, social media and streaming in the past, which have contributed to my skillset.
 
@@ -10,10 +10,9 @@ _and use the following [tools 🧰](tools.md)._
 
 ---
 <details closed>
-  
 <summary><h3>📆 Currently working on</h3></summary>
 
-> I usually keep projects closed source until I'm atleast at an initial release stage. Contact me if any of the below projects sound like something you'd want to contribute to during initial development :)
+> I usually keep projects private until I'm atleast at an initial release stage. Contact me if any of the below projects sound like something you'd want to contribute to while the project is still private :)
 
 🗂 **Portfolio:** A new version of my portfolio
 
@@ -32,7 +31,5 @@ _and use the following [tools 🧰](tools.md)._
 Cooking, exercising, gaming, reading, secondhand, and working with tech and electronics!
 
 --- 
-You can reach me by e-mailing me at [embracketdesign@gmail.com](mailto:embracketdesign@gmail.com).
+👋 You can reach me by e-mailing me at [hello.embracket@gmail.com](mailto:hello.embracket@gmail.com).
 ## Have a nice day! 🙏
-
-> _I have so far blocked & reported 10 bots that tried to follow me... If anyone knows how to make it stop, let me know lol_
