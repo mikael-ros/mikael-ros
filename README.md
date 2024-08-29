@@ -32,4 +32,7 @@ Cooking, exercising, gaming, reading, secondhand, and working with tech and elec
 
 --- 
 👋 You can reach me by e-mailing me at [hello.embracket@gmail.com](mailto:hello.embracket@gmail.com).
+
+💸 Like my projects? Feel free to give me a tip on [Ko-Fi](https://www.ko-fi.com/embracket) :)
+
 ## Have a nice day! 🙏
