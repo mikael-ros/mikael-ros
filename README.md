@@ -1,6 +1,6 @@
 # Hello! 👋
 
-My name is **Mikael; a 22 year old computer science student @ LTH, Sweden** - doing web and graphic design on the side, dabbling in mod/game development amongst many other things. I also used to do video creation, social media and streaming in the past, which have contributed to my skillset.
+My name is **Mikael**. I'm a 22 year old **computer science student @ LTH, Lund University, Sweden**. I do web and graphic design on the side and dabble in mod/game development amongst many other things. I also used to do video creation, social media and streaming in the past.
 
 [![](https://raw.githubusercontent.com/mikael-ros/profile-card/main/profile-card.svg)](https://github.com/mikael-ros/profile-card)
 _and use the following [tools 🧰](tools.md)._
@@ -14,9 +14,7 @@ _and use the following [tools 🧰](tools.md)._
 
 > I usually keep projects private until I'm atleast at an initial release stage. Contact me if any of the below projects sound like something you'd want to contribute to while the project is still private :)
 
-🗂 **Portfolio:** A new version of my portfolio
-
-🎲 [**Slumper:**](https://www.github.com/mikael-ros/slumper) A randomizer for study questions/exercises using Astro.js and Solid.js
+🗂 **Portfolio:** A new version of my websitr
 
 📕 **Studee:** A website for my study notes, using Astro.js and Solid.js
 </details>
