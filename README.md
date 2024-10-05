@@ -14,8 +14,6 @@ _and use the following [tools 🧰](tools.md)._
 
 > I usually keep projects private until I'm atleast at an initial release stage. Contact me if any of the below projects sound like something you'd want to contribute to while the project is still private :)
 
-🗂 **Portfolio:** A new version of my websitr
-
 📕 **Studee:** A website for my study notes, using Astro.js and Solid.js
 </details>
 
