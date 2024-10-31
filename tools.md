@@ -1,6 +1,6 @@
 # Tools I use
 
-> [!INFO]
+> [!TIP]
 > Empty headings mean that I have used the tool, but have nothing particular to say about it.
 
 ---
