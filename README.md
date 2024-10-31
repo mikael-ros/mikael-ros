@@ -4,6 +4,8 @@ My name is **Mikael**. I'm a 22 year old **computer science student @ LTH, Lund 
 
 [![](https://raw.githubusercontent.com/mikael-ros/profile-card/main/profile-card.svg)](https://github.com/mikael-ros/profile-card)
 
+_and use the following [tools 🧰](tools.md)._
+
 > [!NOTE]
 > I just released [**Slumper**](https://www.github.com/mikael-ros/slumper), a study tool for randomizing tasks! 
 
