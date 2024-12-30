@@ -20,7 +20,7 @@ Currently working on a small game :)
 Cooking, exercising, gaming, reading, secondhand, and working with tech and electronics!
 
 --- 
-👋 You can reach me by e-mailing me at [hello.embracket@gmail.com](mailto:hello.embracket@gmail.com).
+👋 You can reach me by e-mailing me at [hello.embracket@gmail.com](mailto:hello.embracket@gmail.com) or by using the [contact form on my website](https://embracket.com/contact/).
 
 💸 Like my projects? Feel free to give me a tip on [Ko-Fi](https://www.ko-fi.com/embracket) :)
 
