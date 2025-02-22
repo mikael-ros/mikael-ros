@@ -5,15 +5,6 @@ My name is **Mikael**. I'm a 22 year old **computer science student @ LTH, Lund 
 [![](https://raw.githubusercontent.com/mikael-ros/profile-card/main/profile-card.svg)](https://github.com/mikael-ros/profile-card)
 _and use the following [tools 🧰](tools.md)._
 
-> [!NOTE]
-> I just released [**Slumper**](https://www.github.com/mikael-ros/slumper), a study tool for randomizing tasks!
-
-Currently working on a small game :)
-
----
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mikael-ros&theme=dark&hide_border=true&border_radius=16&date_format=j%2Fn%5B%2FY%5D&card_width=550&background=45%2C131314%2C7484EBBE&fire=F74E61&ring=D44353&currStreakLabel=C23D4C&dates=D2D1D7)](https://git.io/streak-stats)
-
 ---
 
 ### 🏖️ When I'm not doing... all that, I enjoy
