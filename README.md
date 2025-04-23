@@ -1,11 +1,14 @@
 # Hello! 👋
 
-My name is **Mikael**. I'm a 22 year old **computer science student @ LTH, Lund University, Sweden**. I do web and graphic design on the side and dabble in mod/game development amongst many other things. I also used to do video creation, social media and streaming in the past.
+My name is **Mikael**. I'm a 23 year old **computer science student @ LTH, Lund University, Sweden**. I do web and graphic design on the side and dabble in mod/game development amongst many other things. I also used to do video creation, social media and streaming in the past.
 
 [![](https://raw.githubusercontent.com/mikael-ros/profile-card/main/profile-card.svg)](https://github.com/mikael-ros/profile-card)
 _and use the following [tools 🧰](tools.md)._
 
 ---
+
+### Current projects
+Not working much on programming or engineering projects at the moment, since I'm renovating a bathroom and very busy with studies. I am however experimenting a little with homelabbing! :)
 
 ### 🏖️ When I'm not doing... all that, I enjoy
 Cooking, exercising, gaming, reading, secondhand, and working with tech and electronics!
