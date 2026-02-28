@@ -5,7 +5,7 @@
 
 ---
 
-## Editors
+## Editors and IDEs
 ### Visual Studio Code
 This is the editor that I have used the most. I have decent experience using it, and have used some more advanced features like live sharing, and more.
 
@@ -17,20 +17,23 @@ For Java development, this has mostly been my "home", due to the excellent colla
 #### RustRover
 
 ### Neovim
-I basically don't know how to use it, but I know how to save and exit!
+I have recently tried to use vim more often. I am no wizard, but I can cast some spells.
+
+### Android Studio
+I can comfortably create a basic app. Currently learning more for university.
 
 ---
 
 ## Basic tooling
 
 ### Git
-I know how to do the basics, but I'm not a wizard.
+I know how to do some things, but I'm not a wizard.
 
 ### Linux
-My main OS when doing productive things. I use arch btw, but I have also used Debian, Ubuntu and Linux Mint.
+My main OS when doing productive things. I use arch btw, but I have also used Debian, Ubuntu and Linux Mint. These days I use CachyOS. I use Debian, Proxmox, and Ubuntu on my home server.
 
 ### Windows
-Grew up with it, know everything a Windows poweruser could know, but I don't program in it.
+Grew up with it, know everything a Windows poweruser could know, but I don't program in it. Recently only using it for games that do not support Linux.
 
 ---
 
@@ -48,7 +51,7 @@ What I use for components. Again, used in [Slumper](https://www.slumper.me) and 
 
 ### Adobe
 #### Figma
-I use this to prototype my projects before designing them, and use it to make various icons.
+I use this to prototype my projects before developing them, and use it to make various icons. During my time at university, I have gained even more experience with this tool, and feel quite confident with it.
 
 #### Photoshop
 Been using this on and off for 10 years or so. Mostly use open source alternatives these days.
@@ -60,7 +63,7 @@ Know how to use this fairly proficiently.
 
 #### Illustrator
 
-### Affinity Photo
+### Affinity
 
 ### GIMP
 
@@ -74,7 +77,10 @@ I use this when I create presentations. I have made several themes for it, for e
 ## Game development
 
 ### Godot
-Currently learning the basics.
+I feel fairly confident with this game engine.
+
+### Unity
+Currently learning this game engine for university.
 
 ### Unreal Engine
 I have dabbled in it, but not extensively. I have made some incredibly basic games.
@@ -90,6 +96,7 @@ I've used this pretty extensively for 3D printing projects.
 I'm not a mechanical engineer, but I can design simple objects.
 
 ### Blender
+Currently learning this for a course in VR.
 
 ---
 
@@ -103,3 +110,7 @@ I'm not a mechanical engineer, but I can design simple objects.
 
 ### Haskell 
 - Stack
+
+---
+## Server management
+As mentioned, I know my way around Proxmox, Debian, and Ubuntu. I have grown confident working with SSH, in addition to managing storage, networks, authentication, and permissions. I have during this time used VMs, LXCs, and Docker containers. 
