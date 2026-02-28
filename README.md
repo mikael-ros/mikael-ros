@@ -3,7 +3,7 @@
 My name is **Mikael**. I'm a 23 year old **computer engineering student @ LTH, Lund University, Sweden**. I do web and graphic design on the side and dabble in mod/game development amongst many other things. I also used to do video creation, social media and streaming in the past.
 
 [![](https://raw.githubusercontent.com/mikael-ros/profile-card/main/profile-card.svg)](https://github.com/mikael-ros/profile-card)
-_and use the following [tools 🧰](tools.md)._
+_and use the following [tools 🧰](tools.md). I understand the above might be a red flag, but I try to be honest with the skills I list._
 
 ### When I'm not doing... all that, I enjoy
 Cooking, exercising, gaming, reading, secondhand, homelabbing and working with tech and electronics!
